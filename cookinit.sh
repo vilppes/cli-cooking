@@ -4,4 +4,3 @@ git clone https://github.com/Donearm/Cooking-Recipes.git
 git clone https://github.com/LukeSmithxyz/based.cooking.git
 cd ..
 find . | grep ".md" > recipelist.txt
-
